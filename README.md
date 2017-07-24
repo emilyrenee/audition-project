@@ -2,7 +2,7 @@
 Uses flickr's public feed to retrive recently uploaded cat photos.
 
 # requirements
-* node.js
+* node.js v6.10.3
 
 # getting started
 1. Git clone 

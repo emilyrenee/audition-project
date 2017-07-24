@@ -5,7 +5,7 @@ Uses flickr's public feed to retrive recently uploaded cat photos.
 * node.js v6.10.3
 
 # getting started
-1. Git clone 
+1. ```git clone https://github.com/emilyrenee/audition-project.git```
 2. Run ```npm install```
 3. Run ```node script.js```
 
